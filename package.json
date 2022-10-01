@@ -1,0 +1,27 @@
+{
+  "name": "spanc",
+  "version": "1.0.0",
+  "description": "Site fictif pour Evaluation Studi.fr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonNC/spanc.git"
+  },
+  "keywords": [
+    "Html",
+    "css",
+    "Bootstrap"
+  ],
+  "author": "Simon Jorite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonNC/spanc/issues"
+  },
+  "homepage": "https://github.com/SimonNC/spanc#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
